@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [ollama-linux-amd64.tar](./ollama-linux-amd64.tar)
 
 ---
 
